@@ -12,6 +12,6 @@ class Post extends Model
     protected $fillable = [
         "titre",
         "slug",
-        "contenu"
+        "content",
     ];
 }
